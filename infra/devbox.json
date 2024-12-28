@@ -1,0 +1,33 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jetify-com/devbox/0.13.6/.schema/devbox.schema.json",
+  "packages": [
+    "age@latest",
+    "argocd@latest",
+    "awscli2@latest",
+    "azure-cli@latest",
+    "docker@latest",
+    "fluxcd@latest",
+    "hadolint@latest",
+    "hcloud@latest",
+    "helmfile@latest",
+    "k3d@latest",
+    "k9s@latest",
+    "krew@latest",
+    "kubecolor@latest",
+    "kubectl@latest",
+    "kustomize@latest",
+    "opentofu@latest",
+    "packer@latest",
+    "restic@latest",
+    "shellcheck@latest",
+    "skopeo@latest",
+    "sops@latest",
+    "terraform@latest",
+    "terraform-docs@latest",
+    "terragrunt@latest",
+    "tflint@latest",
+    "velero@latest",
+    "ytt@latest",
+    "path:helm"
+  ]
+}
